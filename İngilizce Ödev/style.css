@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/**/
+.section{
+  padding: 80px 60px;
+  background: linear-gradient(135deg, black, white);
+  color: white;
+  text-align: center;
+}
+/**/
+.section h2{
+  color: rgb(0, 251, 255);
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+/**/
+.section .container-gala-card{
+  background-color: black;
+  border-radius: 15px;
+  padding: 30px;
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 0 15px  darkgray;
+  line-height: 1.6;
+}
+/**/
+.section .container-gala-card p{
+  margin-bottom: 15px;
+}
+/**/
+.section .container-gala-card strong{
+  color: #00ffff;
+}
+.section .container-gala-card h3{
+    font-size: 22px;
+}
